@@ -161,10 +161,3 @@ function idInvalidCardCompanies(arrayOfInvalids) {
 let invalidArray = findInvalidCards(batch);
 console.log(invalidArray.length);
 //idInvalidCardCompanies(invalidArray);
-
-
-
-
-
-
-
